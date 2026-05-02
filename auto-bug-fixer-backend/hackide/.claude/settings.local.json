@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(zip -r hackide_backup.zip hackide --exclude \"hackide/backend/node_modules/*\" --exclude \"hackide/backend/uploads/*\")",
+      "Bash(echo \"Exit: $?\")"
+    ]
+  }
+}
