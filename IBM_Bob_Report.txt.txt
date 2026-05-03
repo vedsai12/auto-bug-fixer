@@ -1,0 +1,15 @@
+IBM Bob Report (Summary)
+
+IBM Bob was used as the primary development environment for building the Auto Bug Fixer & Refactor AI application.
+
+The platform was used to:
+
+* Develop and test the Next.js frontend
+* Manage project structure and files
+* Run the development server
+* Debug API integration and UI components
+* Iterate rapidly on features such as code analysis, result display, and user interaction
+
+The development process involved multiple iterations of testing and refining the application within IBM Bob, ensuring stability and functionality before deployment.
+
+IBM Bob significantly reduced setup time and improved development efficiency, allowing the team to focus on core application features and AI integration.
